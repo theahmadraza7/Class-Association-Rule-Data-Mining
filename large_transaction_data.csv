@@ -1,0 +1,1001 @@
+Transaction,Items Purchased,Class
+T1,"Computer, Hardware, AI, Software",Technology
+T2,"Loan, Economy",Finance
+T3,"Hardware, Algorithm",Technology
+T4,"Doctor, Vaccine",Health
+T5,"Software, AI, Computer, Hardware",Technology
+T6,"University, Book, Teacher, School",Education
+T7,"School, Book",Education
+T8,"University, Book",Education
+T9,"Medicine, Hospital, Doctor",Health
+T10,"Software, Algorithm, AI, Hardware",Technology
+T11,"Medicine, Vaccine, Hospital, Doctor",Health
+T12,"Basketball, Football",Sport
+T13,"Doctor, Therapy, Hospital",Health
+T14,"Basketball, Tennis",Sport
+T15,"Loan, Economy, Investment, Bank",Finance
+T16,"Algorithm, Computer, AI",Technology
+T17,"AI, Algorithm, Hardware, Computer",Technology
+T18,"Teacher, Student, School, University",Education
+T19,"Medicine, Doctor, Vaccine",Health
+T20,"Therapy, Hospital, Doctor",Health
+T21,"Tennis, Football",Sport
+T22,"Tennis, Cricket, Basketball, Football",Sport
+T23,"Loan, Economy",Finance
+T24,"Therapy, Vaccine, Hospital, Medicine",Health
+T25,"Therapy, Doctor, Vaccine, Medicine",Health
+T26,"Basketball, Tennis",Sport
+T27,"Student, Teacher, University",Education
+T28,"Cricket, Tennis, Football",Sport
+T29,"Athlete, Basketball",Sport
+T30,"Book, University",Education
+T31,"Athlete, Cricket",Sport
+T32,"Tennis, Basketball, Cricket, Football",Sport
+T33,"School, Student, Book, University",Education
+T34,"Tennis, Basketball",Sport
+T35,"Hardware, Software, AI, Computer",Technology
+T36,"Therapy, Medicine",Health
+T37,"Cricket, Basketball, Athlete",Sport
+T38,"Doctor, Medicine",Health
+T39,"Hardware, Algorithm, Computer",Technology
+T40,"Hospital, Vaccine, Therapy, Medicine",Health
+T41,"Book, University, School, Student",Education
+T42,"Hospital, Medicine, Therapy",Health
+T43,"Bank, Investment, Economy, Loan",Finance
+T44,"Basketball, Cricket",Sport
+T45,"University, Book, School",Education
+T46,"Vaccine, Doctor, Therapy",Health
+T47,"Economy, Bank, Stock, Loan",Finance
+T48,"Investment, Stock",Finance
+T49,"Investment, Stock",Finance
+T50,"Investment, Economy, Loan",Finance
+T51,"Investment, Bank, Economy",Finance
+T52,"Therapy, Vaccine, Medicine",Health
+T53,"Loan, Economy, Investment, Bank",Finance
+T54,"Tennis, Cricket",Sport
+T55,"Computer, AI, Algorithm",Technology
+T56,"Hardware, AI",Technology
+T57,"Medicine, Therapy, Vaccine, Hospital",Health
+T58,"Investment, Loan, Stock, Bank",Finance
+T59,"AI, Hardware, Algorithm",Technology
+T60,"Doctor, Medicine, Therapy",Health
+T61,"Basketball, Cricket",Sport
+T62,"Doctor, Therapy",Health
+T63,"Tennis, Athlete, Football",Sport
+T64,"Student, Book",Education
+T65,"Football, Basketball, Tennis",Sport
+T66,"Hospital, Medicine, Doctor, Vaccine",Health
+T67,"Vaccine, Doctor",Health
+T68,"Vaccine, Doctor",Health
+T69,"Hardware, Computer, Software, AI",Technology
+T70,"Teacher, School",Education
+T71,"Basketball, Football",Sport
+T72,"Football, Tennis, Athlete",Sport
+T73,"Teacher, Book, University, Student",Education
+T74,"Cricket, Basketball, Athlete",Sport
+T75,"Hardware, Software",Technology
+T76,"AI, Algorithm, Computer",Technology
+T77,"Teacher, School",Education
+T78,"University, Teacher",Education
+T79,"AI, Software, Algorithm, Computer",Technology
+T80,"Investment, Stock",Finance
+T81,"University, School",Education
+T82,"University, Student, Book, School",Education
+T83,"Medicine, Hospital",Health
+T84,"Basketball, Tennis",Sport
+T85,"Athlete, Cricket",Sport
+T86,"Doctor, Vaccine, Therapy, Medicine",Health
+T87,"Book, School, Teacher",Education
+T88,"Doctor, Medicine",Health
+T89,"Stock, Loan, Economy, Investment",Finance
+T90,"Basketball, Athlete, Tennis",Sport
+T91,"Tennis, Basketball, Football",Sport
+T92,"Investment, Loan",Finance
+T93,"Loan, Bank, Economy, Investment",Finance
+T94,"Basketball, Football, Cricket, Athlete",Sport
+T95,"Student, Teacher",Education
+T96,"Athlete, Basketball, Football",Sport
+T97,"AI, Algorithm, Hardware, Computer",Technology
+T98,"Hardware, Algorithm",Technology
+T99,"Athlete, Tennis",Sport
+T100,"Economy, Stock, Investment, Loan",Finance
+T101,"Vaccine, Doctor, Medicine",Health
+T102,"Tennis, Football, Cricket, Athlete",Sport
+T103,"Stock, Economy",Finance
+T104,"Tennis, Basketball",Sport
+T105,"Teacher, University",Education
+T106,"Therapy, Hospital",Health
+T107,"Hospital, Vaccine, Therapy, Doctor",Health
+T108,"Student, Teacher, Book, School",Education
+T109,"Cricket, Basketball, Athlete",Sport
+T110,"Book, Student",Education
+T111,"Hospital, Doctor",Health
+T112,"Student, Teacher, Book",Education
+T113,"Vaccine, Doctor",Health
+T114,"Football, Athlete, Tennis",Sport
+T115,"Doctor, Medicine, Vaccine, Hospital",Health
+T116,"Student, School, University, Book",Education
+T117,"Student, University",Education
+T118,"Algorithm, AI, Hardware, Computer",Technology
+T119,"Loan, Stock, Economy, Investment",Finance
+T120,"Software, Hardware",Technology
+T121,"Investment, Bank, Stock",Finance
+T122,"Loan, Stock, Bank, Investment",Finance
+T123,"Software, AI, Computer",Technology
+T124,"University, School",Education
+T125,"Computer, AI, Algorithm, Software",Technology
+T126,"Doctor, Vaccine",Health
+T127,"University, Student, Teacher, Book",Education
+T128,"Bank, Stock, Investment, Loan",Finance
+T129,"Therapy, Doctor, Hospital",Health
+T130,"Medicine, Doctor, Vaccine, Hospital",Health
+T131,"Hospital, Vaccine, Doctor",Health
+T132,"Hardware, Software",Technology
+T133,"Computer, AI",Technology
+T134,"Stock, Loan, Bank",Finance
+T135,"Hospital, Medicine",Health
+T136,"Basketball, Athlete, Football",Sport
+T137,"Medicine, Therapy",Health
+T138,"School, Teacher",Education
+T139,"Hardware, Software",Technology
+T140,"Medicine, Hospital, Therapy, Doctor",Health
+T141,"Software, AI",Technology
+T142,"Athlete, Basketball, Tennis, Football",Sport
+T143,"Investment, Loan, Bank",Finance
+T144,"Bank, Stock, Economy",Finance
+T145,"Athlete, Tennis, Basketball",Sport
+T146,"Tennis, Football, Cricket",Sport
+T147,"Doctor, Medicine, Vaccine",Health
+T148,"Hospital, Doctor, Vaccine",Health
+T149,"Cricket, Football, Athlete, Tennis",Sport
+T150,"Tennis, Cricket",Sport
+T151,"University, School",Education
+T152,"Therapy, Vaccine",Health
+T153,"Investment, Loan, Economy",Finance
+T154,"Economy, Investment, Stock, Loan",Finance
+T155,"Stock, Investment, Bank",Finance
+T156,"University, Teacher, Book, School",Education
+T157,"Book, Student, Teacher",Education
+T158,"Cricket, Athlete, Football",Sport
+T159,"Economy, Stock, Investment, Bank",Finance
+T160,"Hardware, AI",Technology
+T161,"Medicine, Hospital, Vaccine",Health
+T162,"Hospital, Doctor, Vaccine",Health
+T163,"Algorithm, AI",Technology
+T164,"Economy, Bank, Stock",Finance
+T165,"Football, Cricket",Sport
+T166,"Cricket, Athlete, Tennis",Sport
+T167,"Stock, Loan, Investment, Bank",Finance
+T168,"Algorithm, Software, Hardware",Technology
+T169,"Tennis, Cricket, Athlete, Football",Sport
+T170,"Medicine, Therapy, Doctor, Hospital",Health
+T171,"Tennis, Athlete, Basketball, Football",Sport
+T172,"Cricket, Athlete",Sport
+T173,"Computer, Hardware, Algorithm",Technology
+T174,"University, Student",Education
+T175,"Loan, Stock, Investment, Economy",Finance
+T176,"Basketball, Cricket, Tennis, Football",Sport
+T177,"AI, Computer",Technology
+T178,"Doctor, Vaccine, Therapy",Health
+T179,"Vaccine, Hospital, Doctor, Therapy",Health
+T180,"Investment, Loan, Economy",Finance
+T181,"Therapy, Vaccine, Medicine, Doctor",Health
+T182,"Economy, Loan, Stock, Bank",Finance
+T183,"Tennis, Cricket, Athlete, Basketball",Sport
+T184,"School, Student",Education
+T185,"University, Book, Student",Education
+T186,"Hardware, Software, Algorithm",Technology
+T187,"Basketball, Tennis, Athlete",Sport
+T188,"Athlete, Basketball",Sport
+T189,"AI, Hardware, Software",Technology
+T190,"Doctor, Therapy, Vaccine",Health
+T191,"Hardware, Software, Algorithm",Technology
+T192,"Football, Athlete, Cricket",Sport
+T193,"Hospital, Therapy",Health
+T194,"Medicine, Therapy",Health
+T195,"Book, University, Student",Education
+T196,"Basketball, Cricket, Tennis, Athlete",Sport
+T197,"Medicine, Hospital",Health
+T198,"Bank, Loan",Finance
+T199,"Teacher, University",Education
+T200,"Hardware, AI",Technology
+T201,"Hospital, Doctor, Medicine, Vaccine",Health
+T202,"Economy, Investment, Bank, Stock",Finance
+T203,"Hospital, Doctor, Medicine, Vaccine",Health
+T204,"Athlete, Tennis, Football, Cricket",Sport
+T205,"Stock, Loan, Economy",Finance
+T206,"Investment, Loan, Bank",Finance
+T207,"Hardware, AI, Software, Computer",Technology
+T208,"Algorithm, Software",Technology
+T209,"Student, School, University",Education
+T210,"Vaccine, Doctor, Therapy",Health
+T211,"Hardware, AI, Algorithm",Technology
+T212,"Algorithm, Computer, AI, Software",Technology
+T213,"Basketball, Athlete, Football",Sport
+T214,"Algorithm, Hardware, Software",Technology
+T215,"AI, Computer, Software",Technology
+T216,"Loan, Stock, Economy, Bank",Finance
+T217,"Tennis, Athlete, Football, Basketball",Sport
+T218,"Doctor, Vaccine, Medicine, Therapy",Health
+T219,"Teacher, Student",Education
+T220,"Therapy, Medicine, Doctor, Hospital",Health
+T221,"Teacher, Student",Education
+T222,"Doctor, Hospital, Therapy",Health
+T223,"Basketball, Football, Cricket, Tennis",Sport
+T224,"Teacher, University, Student",Education
+T225,"Cricket, Tennis, Basketball",Sport
+T226,"Student, University",Education
+T227,"Football, Basketball",Sport
+T228,"Medicine, Vaccine, Hospital",Health
+T229,"School, University",Education
+T230,"Tennis, Athlete, Football, Cricket",Sport
+T231,"Basketball, Cricket, Tennis, Football",Sport
+T232,"Therapy, Doctor",Health
+T233,"Teacher, School",Education
+T234,"Cricket, Football",Sport
+T235,"Student, Teacher",Education
+T236,"Cricket, Athlete, Tennis",Sport
+T237,"Computer, Hardware, Software",Technology
+T238,"Cricket, Tennis, Basketball",Sport
+T239,"Hardware, Computer, Software, Algorithm",Technology
+T240,"School, University, Student, Book",Education
+T241,"Software, Algorithm, Hardware, Computer",Technology
+T242,"Teacher, Student, University, School",Education
+T243,"Bank, Loan, Economy",Finance
+T244,"Athlete, Football",Sport
+T245,"Tennis, Basketball",Sport
+T246,"School, Teacher",Education
+T247,"Computer, Software, Algorithm, Hardware",Technology
+T248,"Stock, Loan, Investment, Bank",Finance
+T249,"Tennis, Cricket, Football",Sport
+T250,"Therapy, Doctor, Vaccine",Health
+T251,"Medicine, Doctor, Hospital, Vaccine",Health
+T252,"Basketball, Athlete",Sport
+T253,"Software, Hardware",Technology
+T254,"Software, AI",Technology
+T255,"University, Student, Teacher, School",Education
+T256,"Athlete, Football",Sport
+T257,"AI, Software",Technology
+T258,"School, Teacher, Book, University",Education
+T259,"AI, Computer, Hardware, Algorithm",Technology
+T260,"University, Student, School, Teacher",Education
+T261,"Vaccine, Medicine, Doctor",Health
+T262,"Student, University, School, Teacher",Education
+T263,"Basketball, Cricket",Sport
+T264,"Investment, Bank, Economy",Finance
+T265,"Basketball, Cricket",Sport
+T266,"Hospital, Medicine, Vaccine, Doctor",Health
+T267,"Stock, Loan, Economy",Finance
+T268,"Tennis, Basketball, Cricket",Sport
+T269,"Hospital, Doctor, Medicine",Health
+T270,"Basketball, Athlete, Cricket, Football",Sport
+T271,"Medicine, Therapy, Doctor, Hospital",Health
+T272,"Hardware, Software",Technology
+T273,"Bank, Loan",Finance
+T274,"Athlete, Tennis",Sport
+T275,"Basketball, Football, Tennis",Sport
+T276,"Loan, Bank",Finance
+T277,"Bank, Investment, Economy, Loan",Finance
+T278,"Computer, AI, Algorithm",Technology
+T279,"Computer, Algorithm, Hardware",Technology
+T280,"Investment, Loan",Finance
+T281,"Student, Teacher",Education
+T282,"Bank, Loan, Economy",Finance
+T283,"AI, Algorithm",Technology
+T284,"Doctor, Therapy, Hospital",Health
+T285,"Therapy, Vaccine, Hospital, Doctor",Health
+T286,"Hardware, AI, Software, Computer",Technology
+T287,"Hospital, Therapy, Vaccine, Medicine",Health
+T288,"Book, University",Education
+T289,"Algorithm, AI",Technology
+T290,"School, University, Student, Teacher",Education
+T291,"Computer, AI",Technology
+T292,"Therapy, Medicine",Health
+T293,"School, Book, Teacher, Student",Education
+T294,"Student, Book, Teacher",Education
+T295,"Investment, Economy, Stock",Finance
+T296,"Vaccine, Hospital, Therapy",Health
+T297,"Football, Athlete, Tennis, Basketball",Sport
+T298,"University, Student, School",Education
+T299,"Teacher, Book, University, School",Education
+T300,"Hardware, Algorithm, Computer, AI",Technology
+T301,"Bank, Stock, Loan, Investment",Finance
+T302,"Stock, Loan",Finance
+T303,"Football, Athlete",Sport
+T304,"Cricket, Tennis, Basketball",Sport
+T305,"Algorithm, AI, Software",Technology
+T306,"Economy, Loan, Stock, Bank",Finance
+T307,"Investment, Economy, Loan",Finance
+T308,"Medicine, Vaccine, Therapy",Health
+T309,"Doctor, Hospital, Medicine",Health
+T310,"Book, University",Education
+T311,"School, University, Teacher",Education
+T312,"Vaccine, Doctor, Medicine, Therapy",Health
+T313,"Computer, Software, Hardware",Technology
+T314,"Doctor, Vaccine, Hospital, Therapy",Health
+T315,"Vaccine, Hospital, Medicine, Therapy",Health
+T316,"Hardware, Algorithm",Technology
+T317,"Bank, Stock",Finance
+T318,"Economy, Bank, Stock, Investment",Finance
+T319,"Bank, Stock",Finance
+T320,"Bank, Investment, Stock, Economy",Finance
+T321,"Loan, Investment",Finance
+T322,"Medicine, Vaccine",Health
+T323,"Football, Cricket, Basketball",Sport
+T324,"Algorithm, AI, Hardware, Software",Technology
+T325,"Stock, Loan, Investment, Bank",Finance
+T326,"Loan, Stock, Bank",Finance
+T327,"University, Teacher",Education
+T328,"Bank, Investment, Economy, Loan",Finance
+T329,"Medicine, Therapy",Health
+T330,"School, Book",Education
+T331,"AI, Hardware",Technology
+T332,"Bank, Economy, Stock, Loan",Finance
+T333,"Book, Teacher",Education
+T334,"Student, University, School",Education
+T335,"Loan, Stock, Economy",Finance
+T336,"Basketball, Tennis",Sport
+T337,"Loan, Bank",Finance
+T338,"Investment, Economy",Finance
+T339,"Economy, Investment, Stock",Finance
+T340,"Football, Tennis, Basketball, Cricket",Sport
+T341,"Tennis, Athlete",Sport
+T342,"Investment, Economy, Loan",Finance
+T343,"Basketball, Football, Cricket",Sport
+T344,"Athlete, Football",Sport
+T345,"Algorithm, AI, Hardware, Software",Technology
+T346,"Book, Student",Education
+T347,"Medicine, Vaccine, Doctor",Health
+T348,"Vaccine, Hospital, Medicine",Health
+T349,"Tennis, Cricket",Sport
+T350,"Book, University, Teacher, School",Education
+T351,"Book, Student",Education
+T352,"Student, School",Education
+T353,"Loan, Stock, Bank, Economy",Finance
+T354,"Tennis, Basketball, Football, Cricket",Sport
+T355,"Stock, Loan, Economy, Investment",Finance
+T356,"Book, School",Education
+T357,"Algorithm, Software, Computer",Technology
+T358,"Algorithm, Hardware, Computer, Software",Technology
+T359,"Hospital, Therapy, Medicine",Health
+T360,"Doctor, Vaccine, Hospital, Medicine",Health
+T361,"Tennis, Football, Athlete, Cricket",Sport
+T362,"Computer, Software, Algorithm, AI",Technology
+T363,"Loan, Bank, Investment, Economy",Finance
+T364,"Hardware, Algorithm, Software, AI",Technology
+T365,"Hospital, Medicine, Therapy",Health
+T366,"Computer, AI, Algorithm",Technology
+T367,"Therapy, Vaccine, Hospital, Medicine",Health
+T368,"Computer, Hardware, Software, AI",Technology
+T369,"Software, Hardware, Computer",Technology
+T370,"Economy, Stock",Finance
+T371,"Doctor, Vaccine",Health
+T372,"Athlete, Football, Tennis, Basketball",Sport
+T373,"Economy, Bank",Finance
+T374,"Cricket, Basketball, Football",Sport
+T375,"Software, AI",Technology
+T376,"Hardware, Computer",Technology
+T377,"Algorithm, Computer, Hardware",Technology
+T378,"Computer, Algorithm, Software, Hardware",Technology
+T379,"Therapy, Hospital",Health
+T380,"Economy, Bank",Finance
+T381,"Medicine, Therapy, Vaccine, Hospital",Health
+T382,"Cricket, Tennis, Basketball",Sport
+T383,"Hardware, Software",Technology
+T384,"Hardware, AI, Algorithm, Computer",Technology
+T385,"Bank, Stock, Economy, Loan",Finance
+T386,"School, Student",Education
+T387,"Student, Teacher, Book, University",Education
+T388,"Hardware, Algorithm",Technology
+T389,"Medicine, Therapy, Vaccine, Hospital",Health
+T390,"Teacher, Student, School",Education
+T391,"Book, School, Student, University",Education
+T392,"Cricket, Athlete",Sport
+T393,"Hospital, Therapy",Health
+T394,"Vaccine, Medicine",Health
+T395,"Stock, Loan",Finance
+T396,"Stock, Investment",Finance
+T397,"Hardware, Computer, Software, Algorithm",Technology
+T398,"Bank, Economy, Investment, Loan",Finance
+T399,"Doctor, Vaccine, Medicine",Health
+T400,"Hardware, AI, Software",Technology
+T401,"Basketball, Athlete, Cricket, Tennis",Sport
+T402,"Book, University",Education
+T403,"Loan, Stock, Economy, Bank",Finance
+T404,"Football, Tennis, Basketball",Sport
+T405,"Medicine, Hospital, Doctor, Therapy",Health
+T406,"Athlete, Basketball",Sport
+T407,"School, Book, University",Education
+T408,"Book, Teacher, University, School",Education
+T409,"Tennis, Cricket, Basketball",Sport
+T410,"Investment, Bank, Stock",Finance
+T411,"Teacher, School, University",Education
+T412,"Football, Cricket, Basketball",Sport
+T413,"University, Book",Education
+T414,"School, Book, University, Teacher",Education
+T415,"Football, Tennis",Sport
+T416,"Bank, Stock",Finance
+T417,"Investment, Stock",Finance
+T418,"Bank, Loan, Economy",Finance
+T419,"Therapy, Doctor",Health
+T420,"Loan, Investment",Finance
+T421,"Basketball, Cricket",Sport
+T422,"Doctor, Vaccine, Therapy, Hospital",Health
+T423,"Algorithm, Computer, Hardware, AI",Technology
+T424,"Teacher, School",Education
+T425,"Student, Teacher, Book, School",Education
+T426,"Hospital, Doctor",Health
+T427,"Economy, Stock",Finance
+T428,"Stock, Investment, Loan",Finance
+T429,"Teacher, Book, School",Education
+T430,"Doctor, Hospital, Vaccine, Medicine",Health
+T431,"Doctor, Medicine, Hospital",Health
+T432,"Student, University, School",Education
+T433,"Software, Computer, Hardware, AI",Technology
+T434,"Teacher, University, Student",Education
+T435,"University, Book, Teacher, School",Education
+T436,"Book, Teacher, School",Education
+T437,"Therapy, Medicine",Health
+T438,"Loan, Investment, Stock",Finance
+T439,"Economy, Bank, Investment, Stock",Finance
+T440,"Medicine, Hospital",Health
+T441,"Investment, Economy, Bank",Finance
+T442,"Software, Computer, Hardware, Algorithm",Technology
+T443,"School, Student, Book, University",Education
+T444,"Hospital, Vaccine, Medicine, Doctor",Health
+T445,"Stock, Loan, Economy",Finance
+T446,"Economy, Stock, Bank",Finance
+T447,"Therapy, Medicine, Vaccine",Health
+T448,"Football, Athlete, Cricket, Tennis",Sport
+T449,"Therapy, Hospital, Medicine",Health
+T450,"Athlete, Tennis, Football",Sport
+T451,"Book, University",Education
+T452,"Football, Tennis, Cricket",Sport
+T453,"Medicine, Vaccine",Health
+T454,"Basketball, Tennis, Football",Sport
+T455,"Medicine, Doctor",Health
+T456,"AI, Algorithm, Software, Hardware",Technology
+T457,"Therapy, Medicine, Doctor, Hospital",Health
+T458,"Software, AI, Algorithm",Technology
+T459,"Medicine, Therapy, Hospital, Vaccine",Health
+T460,"Therapy, Hospital, Medicine",Health
+T461,"Tennis, Athlete",Sport
+T462,"Therapy, Hospital, Vaccine",Health
+T463,"Student, Teacher, University",Education
+T464,"Doctor, Vaccine",Health
+T465,"Therapy, Doctor, Medicine, Hospital",Health
+T466,"Student, Teacher",Education
+T467,"Football, Basketball",Sport
+T468,"AI, Computer, Hardware, Software",Technology
+T469,"Cricket, Football",Sport
+T470,"Hospital, Vaccine, Doctor, Medicine",Health
+T471,"Hardware, Software, Computer, AI",Technology
+T472,"Therapy, Medicine, Vaccine, Hospital",Health
+T473,"Medicine, Hospital, Vaccine, Therapy",Health
+T474,"Economy, Bank, Loan",Finance
+T475,"Teacher, Student, Book",Education
+T476,"Computer, Algorithm, Software, AI",Technology
+T477,"Doctor, Therapy, Hospital, Medicine",Health
+T478,"AI, Software",Technology
+T479,"Tennis, Football",Sport
+T480,"Athlete, Basketball, Cricket, Tennis",Sport
+T481,"Hospital, Vaccine, Doctor",Health
+T482,"Investment, Stock, Loan",Finance
+T483,"Hospital, Therapy",Health
+T484,"Football, Basketball, Tennis, Athlete",Sport
+T485,"Bank, Loan, Economy",Finance
+T486,"Algorithm, AI, Hardware",Technology
+T487,"Economy, Stock",Finance
+T488,"Cricket, Athlete, Tennis",Sport
+T489,"Algorithm, AI, Hardware",Technology
+T490,"Football, Athlete",Sport
+T491,"Economy, Bank, Investment",Finance
+T492,"Stock, Investment, Loan, Economy",Finance
+T493,"Basketball, Football, Athlete, Tennis",Sport
+T494,"Bank, Investment, Loan, Stock",Finance
+T495,"Book, Student",Education
+T496,"Bank, Stock, Investment, Loan",Finance
+T497,"Medicine, Therapy, Vaccine, Doctor",Health
+T498,"Tennis, Basketball, Cricket",Sport
+T499,"Investment, Loan, Stock",Finance
+T500,"Bank, Loan",Finance
+T501,"AI, Algorithm, Software",Technology
+T502,"Teacher, University",Education
+T503,"Cricket, Football, Tennis, Basketball",Sport
+T504,"Teacher, School",Education
+T505,"Bank, Loan, Economy, Investment",Finance
+T506,"Medicine, Vaccine, Hospital, Therapy",Health
+T507,"AI, Software, Algorithm, Hardware",Technology
+T508,"Investment, Economy",Finance
+T509,"Loan, Economy, Investment",Finance
+T510,"Computer, Hardware",Technology
+T511,"Hospital, Vaccine",Health
+T512,"Bank, Loan",Finance
+T513,"Software, Computer, Hardware, Algorithm",Technology
+T514,"Book, University, Student, Teacher",Education
+T515,"Book, University",Education
+T516,"School, Student",Education
+T517,"Basketball, Football, Cricket, Athlete",Sport
+T518,"Teacher, Student",Education
+T519,"Book, Student, University, Teacher",Education
+T520,"Computer, Software, Algorithm",Technology
+T521,"Medicine, Hospital",Health
+T522,"Algorithm, AI",Technology
+T523,"Cricket, Basketball",Sport
+T524,"AI, Algorithm",Technology
+T525,"Software, Hardware, Algorithm, AI",Technology
+T526,"Loan, Bank, Investment, Economy",Finance
+T527,"University, Teacher",Education
+T528,"AI, Hardware",Technology
+T529,"Student, University, Teacher",Education
+T530,"Algorithm, Hardware, Computer, AI",Technology
+T531,"Student, Teacher, School",Education
+T532,"AI, Software, Hardware, Algorithm",Technology
+T533,"Therapy, Medicine, Vaccine",Health
+T534,"School, Book",Education
+T535,"Vaccine, Medicine, Hospital",Health
+T536,"Tennis, Basketball, Cricket, Football",Sport
+T537,"Algorithm, Software, Computer, Hardware",Technology
+T538,"Stock, Bank, Loan",Finance
+T539,"Hardware, Computer, Software",Technology
+T540,"Book, Teacher",Education
+T541,"Bank, Stock",Finance
+T542,"Tennis, Cricket, Basketball",Sport
+T543,"Student, Teacher, Book, School",Education
+T544,"Therapy, Vaccine, Medicine",Health
+T545,"Therapy, Doctor, Vaccine",Health
+T546,"Teacher, University",Education
+T547,"School, Student",Education
+T548,"Doctor, Medicine, Hospital, Vaccine",Health
+T549,"Vaccine, Medicine, Doctor",Health
+T550,"Investment, Stock, Loan",Finance
+T551,"Basketball, Athlete, Cricket, Football",Sport
+T552,"Vaccine, Hospital, Doctor",Health
+T553,"Tennis, Basketball",Sport
+T554,"University, School, Book",Education
+T555,"Software, AI",Technology
+T556,"Computer, Algorithm, Hardware, AI",Technology
+T557,"Doctor, Therapy, Hospital",Health
+T558,"University, Teacher, Book, School",Education
+T559,"Computer, Software, AI",Technology
+T560,"Bank, Loan, Stock, Investment",Finance
+T561,"Hospital, Doctor",Health
+T562,"Student, Book, School, University",Education
+T563,"Software, Computer",Technology
+T564,"Investment, Stock, Bank, Loan",Finance
+T565,"Cricket, Football, Athlete",Sport
+T566,"Vaccine, Doctor, Medicine",Health
+T567,"Teacher, Book, Student, University",Education
+T568,"Tennis, Cricket",Sport
+T569,"Computer, Hardware, Algorithm, Software",Technology
+T570,"Vaccine, Medicine",Health
+T571,"Computer, Software",Technology
+T572,"Economy, Stock, Loan",Finance
+T573,"Investment, Loan, Bank, Economy",Finance
+T574,"Basketball, Athlete",Sport
+T575,"Football, Tennis, Athlete, Cricket",Sport
+T576,"Student, University, Book, School",Education
+T577,"School, Book, Teacher, Student",Education
+T578,"University, Teacher",Education
+T579,"Bank, Stock, Loan",Finance
+T580,"Therapy, Doctor",Health
+T581,"Student, Book",Education
+T582,"Book, University",Education
+T583,"Hardware, Software, AI",Technology
+T584,"Therapy, Vaccine, Doctor, Medicine",Health
+T585,"Computer, Algorithm, Software, Hardware",Technology
+T586,"Software, Computer, Hardware, AI",Technology
+T587,"Cricket, Athlete, Basketball, Tennis",Sport
+T588,"Football, Athlete",Sport
+T589,"Algorithm, Hardware",Technology
+T590,"School, Student, Teacher",Education
+T591,"University, Student, Book",Education
+T592,"Computer, Hardware",Technology
+T593,"AI, Software",Technology
+T594,"Athlete, Cricket",Sport
+T595,"Stock, Loan",Finance
+T596,"Software, Algorithm, Hardware, AI",Technology
+T597,"Economy, Investment",Finance
+T598,"University, Student, School, Teacher",Education
+T599,"Investment, Loan, Stock, Bank",Finance
+T600,"Therapy, Vaccine",Health
+T601,"Athlete, Tennis",Sport
+T602,"Teacher, University, School",Education
+T603,"Basketball, Cricket, Football, Tennis",Sport
+T604,"Cricket, Athlete, Tennis, Basketball",Sport
+T605,"Bank, Stock",Finance
+T606,"Football, Basketball, Cricket",Sport
+T607,"Vaccine, Therapy, Medicine, Doctor",Health
+T608,"Student, Teacher",Education
+T609,"Loan, Bank",Finance
+T610,"Athlete, Cricket, Basketball",Sport
+T611,"AI, Software",Technology
+T612,"Loan, Bank",Finance
+T613,"AI, Software, Algorithm",Technology
+T614,"Athlete, Cricket, Football",Sport
+T615,"Football, Basketball",Sport
+T616,"Computer, AI",Technology
+T617,"Vaccine, Therapy, Hospital, Medicine",Health
+T618,"Basketball, Cricket",Sport
+T619,"Doctor, Therapy",Health
+T620,"Medicine, Therapy, Doctor, Hospital",Health
+T621,"Athlete, Tennis, Cricket",Sport
+T622,"Investment, Stock, Bank, Loan",Finance
+T623,"Economy, Bank, Investment, Stock",Finance
+T624,"Hospital, Vaccine, Medicine",Health
+T625,"Cricket, Tennis, Basketball",Sport
+T626,"Loan, Investment, Economy, Stock",Finance
+T627,"Loan, Stock",Finance
+T628,"Hospital, Vaccine",Health
+T629,"Therapy, Vaccine, Medicine",Health
+T630,"Doctor, Hospital",Health
+T631,"Doctor, Hospital, Medicine, Therapy",Health
+T632,"Basketball, Tennis, Athlete, Football",Sport
+T633,"Vaccine, Medicine, Therapy, Doctor",Health
+T634,"Football, Basketball, Cricket, Athlete",Sport
+T635,"AI, Software, Hardware",Technology
+T636,"Teacher, School",Education
+T637,"Hardware, Software, Algorithm",Technology
+T638,"Football, Cricket, Athlete",Sport
+T639,"Stock, Investment, Economy, Loan",Finance
+T640,"Software, AI, Hardware",Technology
+T641,"Loan, Bank, Investment, Stock",Finance
+T642,"School, University",Education
+T643,"Hardware, Algorithm",Technology
+T644,"AI, Algorithm, Hardware",Technology
+T645,"Stock, Investment, Loan",Finance
+T646,"Vaccine, Hospital",Health
+T647,"Doctor, Vaccine, Medicine",Health
+T648,"Medicine, Doctor",Health
+T649,"Economy, Stock",Finance
+T650,"Medicine, Therapy, Doctor",Health
+T651,"Athlete, Football, Basketball, Cricket",Sport
+T652,"Therapy, Hospital",Health
+T653,"Vaccine, Medicine, Therapy",Health
+T654,"Doctor, Vaccine, Medicine",Health
+T655,"Therapy, Vaccine",Health
+T656,"Investment, Economy, Loan, Bank",Finance
+T657,"Vaccine, Doctor, Medicine, Hospital",Health
+T658,"Tennis, Cricket, Football",Sport
+T659,"Medicine, Vaccine, Therapy, Hospital",Health
+T660,"Basketball, Football, Cricket, Athlete",Sport
+T661,"Student, Book, School",Education
+T662,"Hardware, AI",Technology
+T663,"Tennis, Athlete, Basketball, Cricket",Sport
+T664,"Vaccine, Therapy",Health
+T665,"School, University, Teacher",Education
+T666,"Investment, Economy",Finance
+T667,"Vaccine, Doctor, Medicine, Hospital",Health
+T668,"Vaccine, Hospital, Therapy",Health
+T669,"Medicine, Hospital, Vaccine, Doctor",Health
+T670,"Investment, Stock, Loan, Bank",Finance
+T671,"Software, Hardware, Algorithm",Technology
+T672,"Cricket, Tennis",Sport
+T673,"Computer, Software, Hardware",Technology
+T674,"Software, Algorithm, Hardware",Technology
+T675,"AI, Software",Technology
+T676,"Vaccine, Medicine",Health
+T677,"Algorithm, Software",Technology
+T678,"Software, Algorithm",Technology
+T679,"Cricket, Tennis",Sport
+T680,"Book, University, School, Teacher",Education
+T681,"Tennis, Football, Basketball, Cricket",Sport
+T682,"Software, Algorithm, AI, Computer",Technology
+T683,"Cricket, Football, Basketball",Sport
+T684,"Doctor, Hospital",Health
+T685,"Hardware, Algorithm",Technology
+T686,"AI, Software",Technology
+T687,"Algorithm, AI, Software",Technology
+T688,"Hardware, Software, Algorithm, Computer",Technology
+T689,"Book, School, Teacher",Education
+T690,"Medicine, Hospital, Therapy, Vaccine",Health
+T691,"Medicine, Vaccine, Therapy, Hospital",Health
+T692,"Book, Student, Teacher, University",Education
+T693,"Software, Hardware",Technology
+T694,"Hardware, Software",Technology
+T695,"Student, School, Teacher",Education
+T696,"Tennis, Football",Sport
+T697,"Investment, Stock, Bank",Finance
+T698,"Software, Hardware, AI, Computer",Technology
+T699,"Athlete, Football, Cricket",Sport
+T700,"Stock, Investment",Finance
+T701,"Doctor, Therapy",Health
+T702,"Teacher, Book, Student",Education
+T703,"University, Book, Student",Education
+T704,"Cricket, Football",Sport
+T705,"School, University, Teacher, Book",Education
+T706,"Book, University, School",Education
+T707,"Investment, Bank, Loan",Finance
+T708,"University, Student, Book",Education
+T709,"Algorithm, AI, Hardware",Technology
+T710,"Economy, Investment, Loan, Bank",Finance
+T711,"Therapy, Doctor",Health
+T712,"Football, Cricket, Athlete",Sport
+T713,"Algorithm, Software, AI",Technology
+T714,"Doctor, Vaccine",Health
+T715,"Athlete, Cricket, Tennis, Basketball",Sport
+T716,"Bank, Investment, Stock, Loan",Finance
+T717,"Computer, Algorithm, Hardware, Software",Technology
+T718,"Athlete, Basketball",Sport
+T719,"Economy, Bank, Investment",Finance
+T720,"Cricket, Football, Basketball, Tennis",Sport
+T721,"Software, Computer, Algorithm",Technology
+T722,"Hospital, Medicine, Vaccine, Doctor",Health
+T723,"Football, Basketball, Athlete",Sport
+T724,"Book, Student",Education
+T725,"Book, Teacher, Student, University",Education
+T726,"Student, Teacher, School",Education
+T727,"Therapy, Hospital",Health
+T728,"Tennis, Basketball, Athlete, Cricket",Sport
+T729,"Loan, Bank, Stock, Investment",Finance
+T730,"University, Book",Education
+T731,"Cricket, Tennis, Athlete",Sport
+T732,"Investment, Bank",Finance
+T733,"Investment, Loan, Economy, Bank",Finance
+T734,"Doctor, Hospital, Medicine, Therapy",Health
+T735,"Football, Basketball",Sport
+T736,"Hardware, Software, Computer",Technology
+T737,"AI, Hardware",Technology
+T738,"Hospital, Medicine, Doctor",Health
+T739,"Loan, Stock, Economy, Bank",Finance
+T740,"Teacher, Book, University, Student",Education
+T741,"School, Teacher, Book, University",Education
+T742,"AI, Computer, Hardware, Software",Technology
+T743,"Student, University, Teacher, School",Education
+T744,"Algorithm, AI, Hardware, Computer",Technology
+T745,"Economy, Stock, Loan, Bank",Finance
+T746,"Medicine, Therapy",Health
+T747,"Therapy, Hospital",Health
+T748,"Tennis, Athlete, Football",Sport
+T749,"Stock, Investment, Economy, Bank",Finance
+T750,"Economy, Loan, Stock, Investment",Finance
+T751,"Tennis, Basketball, Athlete",Sport
+T752,"Football, Tennis, Athlete",Sport
+T753,"Stock, Investment",Finance
+T754,"Cricket, Basketball",Sport
+T755,"Athlete, Cricket, Tennis",Sport
+T756,"Hospital, Vaccine, Medicine",Health
+T757,"Computer, Hardware",Technology
+T758,"School, Book, Student",Education
+T759,"Basketball, Cricket, Football",Sport
+T760,"Student, Teacher",Education
+T761,"Hardware, Computer",Technology
+T762,"Tennis, Football",Sport
+T763,"Vaccine, Medicine, Hospital",Health
+T764,"Hospital, Vaccine, Therapy, Medicine",Health
+T765,"Doctor, Therapy",Health
+T766,"University, Teacher, Student, Book",Education
+T767,"AI, Computer, Software",Technology
+T768,"Tennis, Football",Sport
+T769,"Athlete, Football, Basketball",Sport
+T770,"Athlete, Basketball, Cricket",Sport
+T771,"Athlete, Basketball, Cricket",Sport
+T772,"Book, School, University",Education
+T773,"AI, Hardware, Algorithm",Technology
+T774,"Vaccine, Doctor, Therapy",Health
+T775,"Vaccine, Therapy, Medicine",Health
+T776,"Stock, Loan, Economy",Finance
+T777,"Teacher, School, Student",Education
+T778,"Investment, Economy, Loan, Bank",Finance
+T779,"Athlete, Tennis, Cricket, Football",Sport
+T780,"Algorithm, Hardware",Technology
+T781,"Software, Algorithm, Hardware, Computer",Technology
+T782,"School, University",Education
+T783,"Loan, Stock, Economy, Investment",Finance
+T784,"School, University, Teacher",Education
+T785,"Doctor, Vaccine, Medicine, Hospital",Health
+T786,"Software, Computer",Technology
+T787,"Athlete, Tennis, Cricket, Football",Sport
+T788,"University, School, Book, Student",Education
+T789,"Football, Tennis, Athlete, Basketball",Sport
+T790,"Tennis, Football",Sport
+T791,"Athlete, Football",Sport
+T792,"Teacher, Student",Education
+T793,"Therapy, Hospital, Medicine",Health
+T794,"Football, Cricket, Athlete",Sport
+T795,"Economy, Investment, Stock, Bank",Finance
+T796,"Stock, Loan, Investment, Bank",Finance
+T797,"Stock, Loan, Bank",Finance
+T798,"Stock, Investment",Finance
+T799,"Bank, Economy, Investment, Loan",Finance
+T800,"Student, University, Teacher",Education
+T801,"Teacher, University, School",Education
+T802,"Football, Tennis, Cricket",Sport
+T803,"Bank, Investment",Finance
+T804,"Computer, Software, AI, Algorithm",Technology
+T805,"Tennis, Football, Cricket",Sport
+T806,"Therapy, Doctor, Hospital",Health
+T807,"Loan, Bank",Finance
+T808,"Basketball, Football, Cricket, Athlete",Sport
+T809,"School, Student, Teacher",Education
+T810,"University, Teacher",Education
+T811,"Tennis, Athlete",Sport
+T812,"AI, Computer",Technology
+T813,"Software, Algorithm, Hardware, AI",Technology
+T814,"AI, Hardware, Computer",Technology
+T815,"Loan, Bank, Investment, Stock",Finance
+T816,"Computer, AI",Technology
+T817,"School, Teacher, Book",Education
+T818,"Investment, Bank, Loan, Stock",Finance
+T819,"Stock, Loan, Economy, Investment",Finance
+T820,"Software, Computer, Hardware",Technology
+T821,"School, Book, Student",Education
+T822,"Medicine, Therapy, Hospital, Doctor",Health
+T823,"Book, Teacher",Education
+T824,"Football, Tennis, Cricket, Basketball",Sport
+T825,"Investment, Loan, Stock, Economy",Finance
+T826,"Hardware, Computer, AI, Algorithm",Technology
+T827,"Tennis, Athlete, Football",Sport
+T828,"Vaccine, Hospital, Medicine, Therapy",Health
+T829,"Athlete, Basketball, Cricket",Sport
+T830,"Teacher, School, University",Education
+T831,"University, Book, School, Teacher",Education
+T832,"Basketball, Football",Sport
+T833,"Cricket, Basketball, Athlete, Tennis",Sport
+T834,"Hospital, Doctor",Health
+T835,"Football, Basketball",Sport
+T836,"Cricket, Athlete, Tennis",Sport
+T837,"Economy, Bank",Finance
+T838,"Algorithm, Software, AI, Computer",Technology
+T839,"Economy, Stock, Bank, Loan",Finance
+T840,"Software, Algorithm, Computer",Technology
+T841,"Cricket, Basketball",Sport
+T842,"Hardware, Algorithm",Technology
+T843,"Student, Book",Education
+T844,"Hospital, Therapy",Health
+T845,"Medicine, Therapy, Doctor",Health
+T846,"Hospital, Medicine",Health
+T847,"Computer, Hardware, AI",Technology
+T848,"School, Teacher",Education
+T849,"Student, University, School, Book",Education
+T850,"Algorithm, Computer, Hardware, Software",Technology
+T851,"AI, Computer",Technology
+T852,"Cricket, Tennis, Basketball",Sport
+T853,"Algorithm, Hardware, Computer",Technology
+T854,"School, University, Student, Book",Education
+T855,"Student, Teacher, Book",Education
+T856,"Investment, Bank",Finance
+T857,"Vaccine, Doctor",Health
+T858,"Computer, Algorithm, Hardware",Technology
+T859,"Algorithm, Computer, Software, Hardware",Technology
+T860,"Computer, Software, Hardware",Technology
+T861,"Medicine, Hospital",Health
+T862,"Hardware, Software",Technology
+T863,"Doctor, Vaccine",Health
+T864,"Vaccine, Medicine, Therapy",Health
+T865,"Loan, Stock, Bank",Finance
+T866,"University, School, Student",Education
+T867,"Hardware, Software, AI",Technology
+T868,"Therapy, Medicine, Doctor",Health
+T869,"AI, Algorithm, Computer, Software",Technology
+T870,"Athlete, Basketball, Cricket, Football",Sport
+T871,"Computer, Algorithm, AI, Software",Technology
+T872,"Book, University",Education
+T873,"Loan, Investment, Stock, Economy",Finance
+T874,"Economy, Bank, Investment, Loan",Finance
+T875,"Bank, Economy",Finance
+T876,"Hospital, Doctor",Health
+T877,"Investment, Stock",Finance
+T878,"Cricket, Basketball, Athlete",Sport
+T879,"Computer, Algorithm",Technology
+T880,"Computer, Algorithm, Hardware, AI",Technology
+T881,"Investment, Stock",Finance
+T882,"Basketball, Athlete, Football",Sport
+T883,"School, University",Education
+T884,"Cricket, Basketball, Athlete",Sport
+T885,"Basketball, Tennis, Football",Sport
+T886,"Book, Student, Teacher, University",Education
+T887,"University, Teacher, Student, School",Education
+T888,"Computer, Algorithm, AI, Hardware",Technology
+T889,"Economy, Investment, Loan",Finance
+T890,"Computer, Algorithm, Software",Technology
+T891,"Hardware, Computer, Algorithm",Technology
+T892,"Hardware, Algorithm",Technology
+T893,"Stock, Economy",Finance
+T894,"Software, Algorithm, AI, Hardware",Technology
+T895,"Stock, Bank, Loan, Investment",Finance
+T896,"Medicine, Vaccine, Hospital, Therapy",Health
+T897,"Doctor, Hospital, Vaccine, Therapy",Health
+T898,"Medicine, Vaccine",Health
+T899,"Computer, Software, Hardware, AI",Technology
+T900,"Bank, Stock, Loan, Economy",Finance
+T901,"Hospital, Doctor",Health
+T902,"University, Teacher, Student",Education
+T903,"School, Teacher",Education
+T904,"Teacher, Student, Book, University",Education
+T905,"Algorithm, AI, Computer, Software",Technology
+T906,"University, Teacher, School",Education
+T907,"Medicine, Hospital",Health
+T908,"Economy, Stock, Investment",Finance
+T909,"Economy, Investment",Finance
+T910,"School, Book, Teacher",Education
+T911,"Vaccine, Hospital",Health
+T912,"Bank, Investment, Economy, Loan",Finance
+T913,"Stock, Investment, Economy, Bank",Finance
+T914,"Therapy, Vaccine, Medicine",Health
+T915,"Doctor, Hospital",Health
+T916,"Tennis, Football, Basketball, Athlete",Sport
+T917,"Cricket, Football, Athlete, Basketball",Sport
+T918,"Software, Computer, Hardware, Algorithm",Technology
+T919,"Student, School",Education
+T920,"Bank, Investment, Stock",Finance
+T921,"Vaccine, Therapy",Health
+T922,"Student, Book, School, University",Education
+T923,"School, University, Book",Education
+T924,"Bank, Stock, Investment",Finance
+T925,"Basketball, Football",Sport
+T926,"Athlete, Cricket",Sport
+T927,"Tennis, Athlete",Sport
+T928,"Software, Hardware, AI, Computer",Technology
+T929,"Medicine, Doctor",Health
+T930,"University, Book, Teacher, Student",Education
+T931,"Economy, Investment, Stock",Finance
+T932,"Loan, Bank",Finance
+T933,"Hardware, Algorithm, Computer, Software",Technology
+T934,"Football, Basketball, Athlete",Sport
+T935,"Therapy, Hospital, Vaccine",Health
+T936,"Bank, Loan",Finance
+T937,"Doctor, Medicine",Health
+T938,"Hardware, AI, Software, Computer",Technology
+T939,"Computer, Software, Algorithm",Technology
+T940,"University, School, Book, Teacher",Education
+T941,"Economy, Loan, Bank, Investment",Finance
+T942,"Economy, Investment, Stock",Finance
+T943,"Medicine, Vaccine, Doctor",Health
+T944,"Book, University, Student",Education
+T945,"Algorithm, Software, Computer",Technology
+T946,"Therapy, Hospital, Doctor",Health
+T947,"University, School, Teacher",Education
+T948,"Loan, Economy, Stock",Finance
+T949,"Stock, Investment",Finance
+T950,"Student, School, Book, University",Education
+T951,"Loan, Economy, Investment",Finance
+T952,"Cricket, Football",Sport
+T953,"Football, Basketball",Sport
+T954,"Investment, Loan, Economy, Stock",Finance
+T955,"Software, AI",Technology
+T956,"University, School, Student",Education
+T957,"Stock, Economy",Finance
+T958,"Vaccine, Hospital, Therapy",Health
+T959,"Stock, Loan, Economy, Bank",Finance
+T960,"Hardware, Computer, Algorithm, Software",Technology
+T961,"Computer, AI, Hardware",Technology
+T962,"School, Book",Education
+T963,"Hospital, Doctor",Health
+T964,"Computer, Hardware",Technology
+T965,"Hardware, Algorithm, AI, Software",Technology
+T966,"Economy, Stock, Investment, Loan",Finance
+T967,"University, Teacher",Education
+T968,"Hospital, Therapy, Doctor",Health
+T969,"Basketball, Tennis, Football",Sport
+T970,"Medicine, Therapy, Doctor",Health
+T971,"Tennis, Football, Basketball, Athlete",Sport
+T972,"Bank, Investment, Loan, Stock",Finance
+T973,"Athlete, Tennis, Basketball",Sport
+T974,"AI, Software",Technology
+T975,"Hospital, Medicine",Health
+T976,"Investment, Economy, Loan, Stock",Finance
+T977,"Athlete, Football, Cricket",Sport
+T978,"Algorithm, AI, Hardware",Technology
+T979,"Software, AI",Technology
+T980,"Athlete, Football, Basketball, Cricket",Sport
+T981,"Doctor, Medicine, Therapy",Health
+T982,"Cricket, Football, Athlete",Sport
+T983,"Basketball, Tennis",Sport
+T984,"Tennis, Cricket, Athlete",Sport
+T985,"School, Teacher, University, Student",Education
+T986,"Student, School, Teacher",Education
+T987,"Basketball, Football, Cricket",Sport
+T988,"Economy, Investment, Stock, Loan",Finance
+T989,"Football, Athlete, Basketball",Sport
+T990,"Book, School",Education
+T991,"Investment, Economy",Finance
+T992,"Economy, Loan, Stock",Finance
+T993,"Computer, Software, Hardware",Technology
+T994,"Therapy, Hospital, Doctor, Vaccine",Health
+T995,"Hospital, Therapy, Doctor, Medicine",Health
+T996,"Economy, Investment, Bank",Finance
+T997,"Medicine, Vaccine, Doctor, Hospital",Health
+T998,"Student, School",Education
+T999,"Athlete, Cricket, Basketball",Sport
+T1000,"Investment, Stock",Finance

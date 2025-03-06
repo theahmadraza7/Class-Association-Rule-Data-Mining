@@ -1,0 +1,8 @@
+Document,Terms,Class
+Doc1,"Student, Teach, School",Education
+Doc2,"Student, School",Education
+Doc3,"Teach, School, Game",Education
+Doc4,"Baseball, Basketball",Sport
+Doc5,"Basketball, Player",Sport
+Doc6,"Baseball, Coach, Game",Sport
+Doc7,"Basketball, Team, City",Sport
